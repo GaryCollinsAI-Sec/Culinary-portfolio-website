@@ -71,5 +71,28 @@ The website is intended to be hosted on Vercel, with GitHub serving as the sourc
 For culinary employment opportunities, kitchen positions, food preparation, baking, or pastry inquiries, please use the contact form on the website.
 
 ---
+Screenshots of the application
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-44-27" src="https://github.com/user-attachments/assets/943a0b4b-9fd7-47a4-a759-288684f3a1cf" />
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-44-40" src="https://github.com/user-attachments/assets/0de60853-f93a-4311-a461-29baf039db36" />
+
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-45-10" src="https://github.com/user-attachments/assets/10a03d6a-aa51-4b6d-b631-36924e217137" />
+
+
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-45-27" src="https://github.com/user-attachments/assets/f9feeaaf-511e-46e9-b2b6-4dbca1212b77" />
+
+
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-45-19" src="https://github.com/user-attachments/assets/10e429e7-0703-409c-9fd7-2a44a9ee1cbf" />
+
+
+<img width="1526" height="747" alt="Screenshot From 2026-11-19 18-45-34" src="https://github.com/user-attachments/assets/c879c704-077e-4b7b-9fbc-a78a0f88be16" />
+
+
+
+---
 
 **Driven to Learn. Ready to Work.**
